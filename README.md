@@ -2,14 +2,10 @@
 
 # 🗡️ Exodus 🗡️
 
----
-
-**' Digital Craftsman ( ideator/ experimenter/ producer ) '**
+**`Digital Craftsman ( ideator/ experimenter/ builder)`**
 
 <p align="left">
 I go by many names; whichever one you know me by, you're in the right place! I am a product manager focused on decentralized technologies. I've been using GitHub to host my repos for many years, and I am now rekindling my love to code, and my current focus is solidity. I have a background in IT solutions and believe in agile software development.
-
----
 
 ## 💻 Tech Stack
 
@@ -19,8 +15,6 @@ I go by many names; whichever one you know me by, you're in the right place! I a
 #
 
 ![Nipz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipz&show_icons=true&theme=gruvbox)
-
-#
 
 ## 🌐 Socials
 
