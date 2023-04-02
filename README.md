@@ -13,11 +13,14 @@ I go by many names; whichever one you know me by, you're in the right place! I a
 #
 
 ![Nipz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipz&show_icons=true&theme=gruvbox)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nipz&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nipz&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevez-watson/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eforexodus)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevez-watson/)<br/>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eforexodus)<br/>
 <img src="https://komarev.com/ghpvc/?username=nipz&style=flat-square&color=blue" alt=""/>
 
 <!--
